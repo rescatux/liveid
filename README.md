@@ -262,7 +262,7 @@ This might be useful for remaster tools in order to get the correct name of the 
 
 Note: I don't actually know what Ubuntu people are using to build their live cds. Several years ago I thought it was Casper but I might be wrong on that. Pull requests are welcomed to fix this.
 
-# Discarded proposal
+# Discarded proposals
 
 [Discarded proposals](DISCARDED_PROPOSALS.md)
 
