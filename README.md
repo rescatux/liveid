@@ -204,6 +204,16 @@ So what we want is a name that we can compare with our UUID.
 
 You can find [live id - Proposal 1 here](LIVEID_PROPOSAL_1.md) .
 
+
+# Distro maker tools implementations
+
+* [liveid live-build implementation 1](LIVEID_LIVE_BUILD_IMPLEMENTATION_1.md)
+
+
+# Live CD remaster tools implementations
+
+There is not any Live CD remaster tool which knows how to understand liveid and take advantage of it yet.
+
 # Feedback needed
 
 I was going to implement this new way of identying live cds in live-build so that I could use in Rescatux.
